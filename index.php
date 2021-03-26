@@ -17,6 +17,7 @@
         setInterval( function () {
           $("#ceksuhu").load("ceksuhu.php");
           $("#cekhumidity").load("cekhumidity.php");
+          $("#ceksoil").load("ceksoil.php");
         },1000  );
         
 
